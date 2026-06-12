@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "onFocusChange"
+  "window.restoreWindows": "preserve"
+  "extensions.ignoreRecommendations": true
+  "editor.formatOnPaste": true
+  "editor.formatOnSave": true
+}
