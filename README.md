@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="readme-file/readme.jpeg" alt="A image coming soon!" width="700">
+  <img src="readme-file/readme.jpeg" alt="A image coming soon!" width="1000">
 </p>
 
 <p align="center">
