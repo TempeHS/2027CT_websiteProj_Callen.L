@@ -7,6 +7,7 @@
         "files.autoSave": "onFocusChange",
         "editor.formatOnSave": true,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "python.analysis.languageServer": "Pylance",
         "[python]": {
           "editor.defaultFormatter": "charliermarsh.ruff",
           "editor.codeActionsOnSave": {
@@ -19,6 +20,7 @@
         "usernamehw.errorlens",
         "ms-python.python",
         "ms-python.debugpy",
+        "ms-python.vscode-pylance",
         "charliermarsh.ruff",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode"
